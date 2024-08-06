@@ -114,9 +114,9 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="170" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">ASIC Design</tspan>
 <tspan x="370" y="190" class="keyColor">Contact</tspan>:
 <tspan x="370" y="210">——————</tspan>
-<tspan x="370" y="230" class="keyColor">Email</tspan>: <tspan class="valueColor">awesomepackard@gmail.com</tspan>
-<tspan x="370" y="250" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">www.linkedin.com/in/morgan-packard</tspan> <!-- figure out how to hot link this as morgan packard -->
-<tspan x="370" y="270" class="keyColor">Discord</tspan>: <tspan class="valueColor">morgz25</tspan>
+<tspan x="370" y="230" class="keyColor">Email</tspan>: <tspan class="valueColor">Awesomepackard@gmail.com</tspan>
+<tspan x="370" y="250" class="keyColor">LinkedIn</tspan>: <a href="www.linkedin.com/in/morgan-packard"> <tspan class="valueColor">Morgan-Packard</tspan> </a> <!-- figure out how to hot link this as morgan packard -->
+<tspan x="370" y="270" class="keyColor">Discord</tspan>: <tspan class="valueColor">Morgz25</tspan>
 </text>
 
 </svg>
